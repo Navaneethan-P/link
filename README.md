@@ -16,15 +16,5 @@ The application utilizes a multi-page static structure:
 - Accessible: Graceful degradation strategies, including noscript fallbacks, maintain usability for users with disabled scripts.
 - Component-Driven CSS: Scalable styling using CSS variables for simple theme maintenance.
 
-## Local Development
-To run this project locally, simply clone the repository and serve the directory using any static file server.
-
-```bash
-git clone https://github.com/Navaneethan-P/link.git
-cd link
-python -m http.server 8000
-```
-Then open http://localhost:8000 in your browser.
-
 ## License
 This project is open-source and available under the MIT License. Feel free to use the structure as a template for your own developer portfolio.
